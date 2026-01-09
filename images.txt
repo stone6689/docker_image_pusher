@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-instituteiptv/iptv-4gtv:0.0.6
+--platform=linux/amd64 instituteiptv/iptv-4gtv:0.0.6
+--platform=linux/arm64 instituteiptv/iptv-4gtv:0.0.6
