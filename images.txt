@@ -1,8 +1,28 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 instituteiptv/iptv-4gtv:0.0.6
---platform=linux/arm64 instituteiptv/iptv-4gtv:0.0.6
+#--platform=linux/amd64 
+#--platform=linux/arm64 
+--platform=linux/amd64 livecodesvip/php-runtime:latest
+--platform=linux/arm64 livecodesvip/php-runtime:latest
+--platform=linux/amd64 instituteiptv/4gtv-v1:2.0.2
+--platform=linux/arm64 instituteiptv/4gtv-v1:2.0.2
+--platform=linux/amd64 instituteiptv/iptv-management-system:0.0.8
+--platform=linux/arm64 instituteiptv/iptv-management-system:0.0.8
+--platform=linux/amd64 instituteiptv/smart-v1:0.0.9
+--platform=linux/arm64 instituteiptv/smart-v1:0.0.9
+--platform=linux/amd64 instituteiptv/mq:1.0.0
+--platform=linux/arm64 instituteiptv/mq:1.0.0
+--platform=linux/amd64 instituteiptv/bee-v1:0.0.8
+--platform=linux/arm64 instituteiptv/bee-v1:0.0.8
+--platform=linux/amd64 instituteiptv/bee-v2:0.0.1
+--platform=linux/arm64 instituteiptv/bee-v2:0.0.1
+--platform=linux/amd64 instituteiptv/ofiii-move:0.0.5
+--platform=linux/arm64 instituteiptv/ofiii-move:0.0.5
+--platform=linux/amd64 instituteiptv/ofiii-plus:0.0.5
+--platform=linux/arm64 instituteiptv/ofiii-plus:0.0.5
+--platform=linux/amd64 instituteiptv/migu-sports:0.0.1
+--platform=linux/arm64 instituteiptv/migu-sports:0.0.1
+--platform=linux/amd64 instituteiptv/douyin-live:0.0.1
+--platform=linux/arm64 instituteiptv/douyin-live:0.0.1
+--platform=linux/amd64 instituteiptv/mytv-v1:0.0.1
+--platform=linux/arm64 instituteiptv/mytv-v1:0.0.1
+--platform=linux/amd64 instituteiptv/telegram-mute-bot:0.0.1
+--platform=linux/arm64 instituteiptv/telegram-mute-bot:0.0.1
