@@ -1,28 +1,127 @@
 #--platform=linux/amd64 
 #--platform=linux/arm64 
---platform=linux/amd64 instituteiptv/iptv-psy:0.0.1
---platform=linux/arm64 instituteiptv/iptv-psy:0.0.1
+
+--platform=linux/amd64 instituteiptv/iptv-psy:latest
+--platform=linux/arm64 instituteiptv/iptv-psy:latest
+#--platform=linux/amd64 instituteiptv/iptv-psy:0.0.1
+#--platform=linux/arm64 instituteiptv/iptv-psy:0.0.1
+
+--platform=linux/amd64 instituteiptv/iptv-management-system:latest
+--platform=linux/arm64 instituteiptv/iptv-management-system:latest
+#--platform=linux/amd64 instituteiptv/iptv-management-system:0.0.9
+#--platform=linux/arm64 instituteiptv/iptv-management-system:0.0.9
+
+--platform=linux/amd64 instituteiptv/iptv-4gtv:latest
+--platform=linux/arm64 instituteiptv/iptv-4gtv:latest
+#--platform=linux/amd64 instituteiptv/iptv-4gtv:0.0.6
+#--platform=linux/arm64 instituteiptv/iptv-4gtv:0.0.6
+
+--platform=linux/amd64 instituteiptv/smart-v1:latest
+--platform=linux/arm64 instituteiptv/smart-v1:latest
+#--platform=linux/amd64 instituteiptv/smart-v1:0.0.9
+#--platform=linux/arm64 instituteiptv/smart-v1:0.0.9
+
+--platform=linux/amd64 instituteiptv/mq:latest
+--platform=linux/arm64 instituteiptv/mq:latest
+#--platform=linux/amd64 instituteiptv/mq:1.0.0
+#--platform=linux/arm64 instituteiptv/mq:1.0.0
+
+--platform=linux/amd64 instituteiptv/4gtv-v1:latest
+--platform=linux/arm64 instituteiptv/4gtv-v1:latest
+#--platform=linux/amd64 instituteiptv/4gtv-v1:2.0.2
+#--platform=linux/arm64 instituteiptv/4gtv-v1:2.0.2
+
+--platform=linux/amd64 instituteiptv/bee-v1:latest
+--platform=linux/arm64 instituteiptv/bee-v1:latest
+#--platform=linux/amd64 instituteiptv/bee-v1:0.0.8
+#--platform=linux/arm64 instituteiptv/bee-v1:0.0.8
+
+--platform=linux/amd64 instituteiptv/bee-v2:latest
+--platform=linux/arm64 instituteiptv/bee-v2:latest
+#--platform=linux/amd64 instituteiptv/bee-v2:0.0.1
+#--platform=linux/arm64 instituteiptv/bee-v2:0.0.1
+
+--platform=linux/amd64 instituteiptv/ofiii-move:latest
+--platform=linux/arm64 instituteiptv/ofiii-move:latest
+#--platform=linux/amd64 instituteiptv/ofiii-move:0.0.5
+#--platform=linux/arm64 instituteiptv/ofiii-move:0.0.5
+
+--platform=linux/amd64 instituteiptv/ofiii-plus:latest
+--platform=linux/arm64 instituteiptv/ofiii-plus:latest
+#--platform=linux/amd64 instituteiptv/ofiii-plus:0.0.5
+#--platform=linux/arm64 instituteiptv/ofiii-plus:0.0.5
+
+--platform=linux/amd64 instituteiptv/migu-sports:latest
+--platform=linux/arm64 instituteiptv/migu-sports:latest
+#--platform=linux/amd64 instituteiptv/migu-sports:0.0.1
+#--platform=linux/arm64 instituteiptv/migu-sports:0.0.1
+
+--platform=linux/amd64 instituteiptv/douyin-live:latest
+--platform=linux/arm64 instituteiptv/douyin-live:latest
+#--platform=linux/amd64 instituteiptv/douyin-live:0.0.1
+#--platform=linux/arm64 instituteiptv/douyin-live:0.0.1
+
+--platform=linux/amd64 instituteiptv/telegram-mute-bot:latest
+--platform=linux/arm64 instituteiptv/telegram-mute-bot:latest
+#--platform=linux/amd64 instituteiptv/telegram-mute-bot:0.0.1
+#--platform=linux/arm64 instituteiptv/telegram-mute-bot:0.0.1
+
+--platform=linux/amd64 aethersailor/subconverter-extended:latest
+--platform=linux/arm64 aethersailor/subconverter-extended:latest
 #--platform=linux/amd64 aethersailor/subconverter-extended:v1.0.14
 #--platform=linux/arm64 aethersailor/subconverter-extended:v1.0.14
+
 #--platform=linux/amd64 develop767/migu_video:latest
 #--platform=linux/arm64 develop767/migu_video:latest
+
+--platform=linux/amd64 whyour/qinglong:latest
+--platform=linux/arm64 whyour/qinglong:latest
 #--platform=linux/amd64 whyour/qinglong:2.20.1-debian
 #--platform=linux/arm64 whyour/qinglong:2.20.1-debian
 #--platform=linux/amd64 whyour/qinglong:2.20.1
 #--platform=linux/arm64 whyour/qinglong:2.20.1
+
+--platform=linux/amd64 linkease/kspeeder:latest
+--platform=linux/arm64 linkease/kspeeder:latest
 #--platform=linux/amd64 linkease/kspeeder:0.5.0
 #--platform=linux/arm64 linkease/kspeeder:0.5.0
-#--platform=linux/amd64 lampon/omnibox:v1.4.3
-#--platform=linux/arm64 lampon/omnibox:v1.4.3
+
+--platform=linux/amd64 lampon/omnibox:latest
+--platform=linux/arm64 lampon/omnibox:latest
+--platform=linux/amd64 lampon/omnibox:v1.4.4
+--platform=linux/arm64 lampon/omnibox:v1.4.4
+
 #--platform=linux/amd64 smysong/mediamaster-v2:latest
 #--platform=linux/arm64 smysong/mediamaster-v2:latest
+
+--platform=linux/amd64 ht944/rabbitpro:latest
+--platform=linux/arm64 ht944/rabbitpro:latest
 #--platform=linux/amd64 ht944/rabbitpro:25-08-15_21-33
 #--platform=linux/arm64 ht944/rabbitpro:25-08-15_21-33
+
+--platform=linux/amd64 looby/aliyundrive-subscribe:latest
+--platform=linux/arm64 looby/aliyundrive-subscribe:latest
 #--platform=linux/amd64 looby/aliyundrive-subscribe:2.9.5
 #--platform=linux/arm64 looby/aliyundrive-subscribe:2.9.5
+
+--platform=linux/amd64 taksss/php-epg:latest
+--platform=linux/arm64 taksss/php-epg:latest
 #--platform=linux/amd64 taksss/php-epg:26.01.2
 #--platform=linux/arm64 taksss/php-epg:26.01.2
+
+--platform=linux/amd64 jiangrui1994/cloudsaver:latest
+--platform=linux/arm64 jiangrui1994/cloudsaver:latest
 #--platform=linux/amd64 jiangrui1994/cloudsaver:0.6.2
 #--platform=linux/arm64 jiangrui1994/cloudsaver:0.6.2
+
+--platform=linux/amd64 a76yyyy/qiandao:latest
+--platform=linux/arm64 a76yyyy/qiandao:latest
 #--platform=linux/amd64 a76yyyy/qiandao:20250803
 #--platform=linux/arm64 a76yyyy/qiandao:20250803
+
+#nginx
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
