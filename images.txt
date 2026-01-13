@@ -8,8 +8,8 @@
 
 --platform=linux/amd64 mlikiowa/napcat-docker:latest
 --platform=linux/arm64 mlikiowa/napcat-docker:latest
---platform=linux/amd64 aethersailor/subconverter-extended:v4.10.9
---platform=linux/arm64 aethersailor/subconverter-extended:v4.10.9
+--platform=linux/amd64 mlikiowa/napcat-docker:v4.10.9
+--platform=linux/arm64 mlikiowa/napcat-docker:v4.10.9
 
 --platform=linux/amd64 xhongc/music_tag_web:latest
 --platform=linux/arm64 xhongc/music_tag_web:latest
