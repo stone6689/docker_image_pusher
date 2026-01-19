@@ -36,10 +36,10 @@
 #--platform=linux/amd64 instituteiptv/iptv-4gtv:0.0.6
 #--platform=linux/arm64 instituteiptv/iptv-4gtv:0.0.6
 
---platform=linux/amd64 instituteiptv/smart-v1:latest
---platform=linux/arm64 instituteiptv/smart-v1:latest
---platform=linux/amd64 instituteiptv/smart-v1:0.1.1
---platform=linux/arm64 instituteiptv/smart-v1:0.1.1
+#--platform=linux/amd64 instituteiptv/smart-v1:latest
+#--platform=linux/arm64 instituteiptv/smart-v1:latest
+#--platform=linux/amd64 instituteiptv/smart-v1:0.1.1
+#--platform=linux/arm64 instituteiptv/smart-v1:0.1.1
 
 #--platform=linux/amd64 instituteiptv/mq:latest
 #--platform=linux/arm64 instituteiptv/mq:latest
@@ -51,10 +51,10 @@
 #--platform=linux/amd64 instituteiptv/4gtv-v1:2.0.2
 #--platform=linux/arm64 instituteiptv/4gtv-v1:2.0.2
 
---platform=linux/amd64 instituteiptv/bee-v1:latest
---platform=linux/arm64 instituteiptv/bee-v1:latest
---platform=linux/amd64 instituteiptv/bee-v1:0.1.0
---platform=linux/arm64 instituteiptv/bee-v1:0.1.0
+#--platform=linux/amd64 instituteiptv/bee-v1:latest
+#--platform=linux/arm64 instituteiptv/bee-v1:latest
+#--platform=linux/amd64 instituteiptv/bee-v1:0.1.0
+#--platform=linux/arm64 instituteiptv/bee-v1:0.1.0
 
 #--platform=linux/amd64 instituteiptv/bee-v2:latest
 #--platform=linux/arm64 instituteiptv/bee-v2:latest
@@ -66,10 +66,10 @@
 #--platform=linux/amd64 instituteiptv/ofiii-move:0.0.5
 #--platform=linux/arm64 instituteiptv/ofiii-move:0.0.5
 
---platform=linux/amd64 instituteiptv/ofiii-plus:latest
---platform=linux/arm64 instituteiptv/ofiii-plus:latest
---platform=linux/amd64 instituteiptv/ofiii-plus:0.0.1
---platform=linux/arm64 instituteiptv/ofiii-plus:0.0.1
+#--platform=linux/amd64 instituteiptv/ofiii-plus:latest
+#--platform=linux/arm64 instituteiptv/ofiii-plus:latest
+#--platform=linux/amd64 instituteiptv/ofiii-plus:0.0.1
+#--platform=linux/arm64 instituteiptv/ofiii-plus:0.0.1
 
 #--platform=linux/amd64 instituteiptv/migu-sports:latest
 #--platform=linux/arm64 instituteiptv/migu-sports:latest
@@ -128,6 +128,11 @@
 #--platform=linux/arm64 a76yyyy/qiandao:latest
 #--platform=linux/amd64 a76yyyy/qiandao:20250803
 #--platform=linux/arm64 a76yyyy/qiandao:20250803
+
+--platform=linux/amd64 anmour/bncr:latest
+--platform=linux/arm64 anmour/bncr:latest
+--platform=linux/amd64 anmour/bncr:3.1.2
+--platform=linux/arm64 anmour/bncr:3.1.2
 
 #nginx
 #支持私库
