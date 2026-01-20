@@ -1,6 +1,11 @@
 #--platform=linux/amd64 
 #--platform=linux/arm64 
 
+--platform=linux/amd64 cqshushu/iptv-spider:latest
+--platform=linux/arm64 cqshushu/iptv-spider:latest
+--platform=linux/amd64 cqshushu/iptv-spider:v1.0
+--platform=linux/arm64 cqshushu/iptv-spider:v1.0
+
 #--platform=linux/amd64 aethersailor/subconverter-extended:latest
 #--platform=linux/arm64 aethersailor/subconverter-extended:latest
 #--platform=linux/amd64 aethersailor/subconverter-extended:v1.0.15
@@ -128,11 +133,6 @@
 #--platform=linux/arm64 a76yyyy/qiandao:latest
 #--platform=linux/amd64 a76yyyy/qiandao:20250803
 #--platform=linux/arm64 a76yyyy/qiandao:20250803
-
---platform=linux/amd64 anmour/bncr:latest
---platform=linux/arm64 anmour/bncr:latest
---platform=linux/amd64 anmour/bncr:3.1.2
---platform=linux/arm64 anmour/bncr:3.1.2
 
 #nginx
 #支持私库
