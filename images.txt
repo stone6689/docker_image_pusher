@@ -116,8 +116,8 @@
 
 --platform=linux/amd64 ht944/rabbitpro:latest
 --platform=linux/arm64 ht944/rabbitpro:latest
---platform=linux/amd64 ht944/rabbitpro:26-01-22_15-48
---platform=linux/arm64 ht944/rabbitpro:26-01-22_15-48
+--platform=linux/amd64 ht944/rabbitpro:26-01-23_14-57
+--platform=linux/arm64 ht944/rabbitpro:26-01-23_14-57
 
 #--platform=linux/amd64 looby/aliyundrive-subscribe:latest
 #--platform=linux/arm64 looby/aliyundrive-subscribe:latest
