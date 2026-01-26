@@ -1,6 +1,3 @@
-#--platform=linux/amd64 
-#--platform=linux/arm64 
-
 #--platform=linux/amd64 cqshushu/iptv-spider:latest
 #--platform=linux/arm64 cqshushu/iptv-spider:latest
 #--platform=linux/amd64 cqshushu/iptv-spider:v1.0
@@ -91,8 +88,8 @@
 #--platform=linux/amd64 instituteiptv/telegram-mute-bot:0.0.1
 #--platform=linux/arm64 instituteiptv/telegram-mute-bot:0.0.1
 
-#--platform=linux/amd64 develop767/migu_video:latest
-#--platform=linux/arm64 develop767/migu_video:latest
+--platform=linux/amd64 develop767/migu_video:latest
+--platform=linux/arm64 develop767/migu_video:latest
 
 #--platform=linux/amd64 whyour/qinglong:latest
 #--platform=linux/arm64 whyour/qinglong:latest
@@ -114,10 +111,10 @@
 #--platform=linux/amd64 smysong/mediamaster-v2:latest
 #--platform=linux/arm64 smysong/mediamaster-v2:latest
 
---platform=linux/amd64 ht944/rabbitpro:latest
---platform=linux/arm64 ht944/rabbitpro:latest
---platform=linux/amd64 ht944/rabbitpro:26-01-23_14-57
---platform=linux/arm64 ht944/rabbitpro:26-01-23_14-57
+#--platform=linux/amd64 ht944/rabbitpro:latest
+#--platform=linux/arm64 ht944/rabbitpro:latest
+#--platform=linux/amd64 ht944/rabbitpro:26-01-23_14-57
+#--platform=linux/arm64 ht944/rabbitpro:26-01-23_14-57
 
 #--platform=linux/amd64 looby/aliyundrive-subscribe:latest
 #--platform=linux/arm64 looby/aliyundrive-subscribe:latest
@@ -134,7 +131,6 @@
 #--platform=linux/amd64 a76yyyy/qiandao:20250803
 #--platform=linux/arm64 a76yyyy/qiandao:20250803
 
-#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
