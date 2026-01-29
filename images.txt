@@ -3,10 +3,10 @@
 #--platform=linux/amd64 cqshushu/iptv-spider:v1.0
 #--platform=linux/arm64 cqshushu/iptv-spider:v1.0
 
---platform=linux/amd64 aethersailor/subconverter-extended:latest
---platform=linux/arm64 aethersailor/subconverter-extended:latest
---platform=linux/amd64 aethersailor/subconverter-extended:v1.0.16
---platform=linux/arm64 aethersailor/subconverter-extended:v1.0.16
+#--platform=linux/amd64 aethersailor/subconverter-extended:latest
+#--platform=linux/arm64 aethersailor/subconverter-extended:latest
+#--platform=linux/amd64 aethersailor/subconverter-extended:v1.0.16
+#--platform=linux/arm64 aethersailor/subconverter-extended:v1.0.16
 
 #--platform=linux/amd64 mlikiowa/napcat-docker:latest
 #--platform=linux/arm64 mlikiowa/napcat-docker:latest
@@ -111,10 +111,10 @@
 #--platform=linux/amd64 smysong/mediamaster-v2:latest
 #--platform=linux/arm64 smysong/mediamaster-v2:latest
 
-#--platform=linux/amd64 ht944/rabbitpro:latest
-#--platform=linux/arm64 ht944/rabbitpro:latest
-#--platform=linux/amd64 ht944/rabbitpro:26-01-23_14-57
-#--platform=linux/arm64 ht944/rabbitpro:26-01-23_14-57
+--platform=linux/amd64 ht944/rabbitpro:latest
+--platform=linux/arm64 ht944/rabbitpro:latest
+--platform=linux/amd64 ht944/rabbitpro:26-01-28_23-46
+--platform=linux/arm64 ht944/rabbitpro:26-01-28_23-46
 
 #--platform=linux/amd64 looby/aliyundrive-subscribe:latest
 #--platform=linux/arm64 looby/aliyundrive-subscribe:latest
