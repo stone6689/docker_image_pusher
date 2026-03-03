@@ -91,12 +91,12 @@
 #--platform=linux/amd64 develop767/migu_video:latest
 #--platform=linux/arm64 develop767/migu_video:latest
 
-#--platform=linux/amd64 whyour/qinglong:latest
-#--platform=linux/arm64 whyour/qinglong:latest
-#--platform=linux/amd64 whyour/qinglong:2.20.1-debian
-#--platform=linux/arm64 whyour/qinglong:2.20.1-debian
-#--platform=linux/amd64 whyour/qinglong:2.20.1
-#--platform=linux/arm64 whyour/qinglong:2.20.1
+--platform=linux/amd64 whyour/qinglong:latest
+--platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/amd64 whyour/qinglong:2.20.2-debian
+--platform=linux/arm64 whyour/qinglong:2.20.2-debian
+--platform=linux/amd64 whyour/qinglong:2.20.2
+--platform=linux/arm64 whyour/qinglong:2.20.2
 
 #--platform=linux/amd64 linkease/kspeeder:latest
 #--platform=linux/arm64 linkease/kspeeder:latest
@@ -111,10 +111,10 @@
 #--platform=linux/amd64 smysong/mediamaster-v2:latest
 #--platform=linux/arm64 smysong/mediamaster-v2:latest
 
---platform=linux/amd64 ht944/rabbitpro:latest
---platform=linux/arm64 ht944/rabbitpro:latest
---platform=linux/amd64 ht944/rabbitpro:2026-01-31_19-44
---platform=linux/arm64 ht944/rabbitpro:2026-01-31_19-44
+#--platform=linux/amd64 ht944/rabbitpro:latest
+#--platform=linux/arm64 ht944/rabbitpro:latest
+#--platform=linux/amd64 ht944/rabbitpro:2026-01-31_19-44
+#--platform=linux/arm64 ht944/rabbitpro:2026-01-31_19-44
 
 #--platform=linux/amd64 looby/aliyundrive-subscribe:latest
 #--platform=linux/arm64 looby/aliyundrive-subscribe:latest
