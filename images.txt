@@ -23,6 +23,9 @@
 #--platform=linux/amd64 taksss/php-epg:26.01.2
 #--platform=linux/arm64 taksss/php-epg:26.01.2
 
+--platform=linux/amd64 smysong/mediamaster-v2:latest
+--platform=linux/arm64 smysong/mediamaster-v2:latest
+
 #--platform=linux/amd64 instituteiptv/iptv-psy:latest
 #--platform=linux/arm64 instituteiptv/iptv-psy:latest
 #--platform=linux/amd64 instituteiptv/iptv-psy:0.0.1
