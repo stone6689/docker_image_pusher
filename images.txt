@@ -19,8 +19,8 @@
 
 --platform=linux/amd64 cqshushu/iptv-spider:latest
 --platform=linux/arm64 cqshushu/iptv-spider:latest
---platform=linux/amd64 cqshushu/iptv-spider:v2.0.7
---platform=linux/arm64 cqshushu/iptv-spider:v2.0.7
+--platform=linux/amd64 cqshushu/iptv-spider:v2.0.9
+--platform=linux/arm64 cqshushu/iptv-spider:v2.0.9
 
 --platform=linux/amd64 aethersailor/subconverter-extended:latest
 --platform=linux/arm64 aethersailor/subconverter-extended:latest
@@ -59,8 +59,8 @@
 
 --platform=linux/amd64 lampon/omnibox:latest
 --platform=linux/arm64 lampon/omnibox:latest
---platform=linux/amd64 lampon/omnibox:v2.1.1
---platform=linux/arm64 lampon/omnibox:v2.1.1
+--platform=linux/amd64 lampon/omnibox:v2.1.2
+--platform=linux/arm64 lampon/omnibox:v2.1.2
 
 --platform=linux/amd64 smysong/mediamaster-v2:latest
 --platform=linux/arm64 smysong/mediamaster-v2:latest
