@@ -1,86 +1,86 @@
 
---platform=linux/amd64 livecodesvip/php-runtime:latest
---platform=linux/arm64 livecodesvip/php-runtime:latest
+# --platform=linux/amd64 livecodesvip/php-runtime:latest
+# --platform=linux/arm64 livecodesvip/php-runtime:latest
 
---platform=linux/amd64 hanxi/xiaomusic:latest
---platform=linux/arm64 hanxi/xiaomusic:latest
---platform=linux/amd64 hanxi/xiaomusic:v0.5.1
---platform=linux/arm64 hanxi/xiaomusic:v0.5.1
+# --platform=linux/amd64 hanxi/xiaomusic:latest
+# --platform=linux/arm64 hanxi/xiaomusic:latest
+# --platform=linux/amd64 hanxi/xiaomusic:v0.5.1
+# --platform=linux/arm64 hanxi/xiaomusic:v0.5.1
 
---platform=linux/amd64 cp0204/smartstrm:latest
---platform=linux/arm64 cp0204/smartstrm:latest
---platform=linux/amd64 cp0204/smartstrm:v0.4.11
---platform=linux/arm64 cp0204/smartstrm:v0.4.11
+# --platform=linux/amd64 cp0204/smartstrm:latest
+# --platform=linux/arm64 cp0204/smartstrm:latest
+# --platform=linux/amd64 cp0204/smartstrm:v0.4.11
+# --platform=linux/arm64 cp0204/smartstrm:v0.4.11
 
---platform=linux/amd64 cp0204/quark-auto-save:latest
---platform=linux/arm64 cp0204/quark-auto-save:latest
---platform=linux/amd64 cp0204/quark-auto-save:v0.8.4
---platform=linux/arm64 cp0204/quark-auto-save:v0.8.4
+# --platform=linux/amd64 cp0204/quark-auto-save:latest
+# --platform=linux/arm64 cp0204/quark-auto-save:latest
+# --platform=linux/amd64 cp0204/quark-auto-save:v0.8.4
+# --platform=linux/arm64 cp0204/quark-auto-save:v0.8.4
 
---platform=linux/amd64 cqshushu/iptv-spider:latest
---platform=linux/arm64 cqshushu/iptv-spider:latest
---platform=linux/amd64 cqshushu/iptv-spider:v2.0.9
---platform=linux/arm64 cqshushu/iptv-spider:v2.0.9
+# --platform=linux/amd64 cqshushu/iptv-spider:latest
+# --platform=linux/arm64 cqshushu/iptv-spider:latest
+# --platform=linux/amd64 cqshushu/iptv-spider:v2.0.9
+# --platform=linux/arm64 cqshushu/iptv-spider:v2.0.9
 
---platform=linux/amd64 aethersailor/subconverter-extended:latest
---platform=linux/arm64 aethersailor/subconverter-extended:latest
---platform=linux/amd64 aethersailor/subconverter-extended:v1.0.23
---platform=linux/arm64 aethersailor/subconverter-extended:v1.0.23
+# --platform=linux/amd64 aethersailor/subconverter-extended:latest
+# --platform=linux/arm64 aethersailor/subconverter-extended:latest
+# --platform=linux/amd64 aethersailor/subconverter-extended:v1.0.23
+# --platform=linux/arm64 aethersailor/subconverter-extended:v1.0.23
 
---platform=linux/amd64 mlikiowa/napcat-docker:latest
---platform=linux/arm64 mlikiowa/napcat-docker:latest
---platform=linux/amd64 mlikiowa/napcat-docker:v4.17.55
---platform=linux/arm64 mlikiowa/napcat-docker:v4.17.55
+# --platform=linux/amd64 mlikiowa/napcat-docker:latest
+# --platform=linux/arm64 mlikiowa/napcat-docker:latest
+# --platform=linux/amd64 mlikiowa/napcat-docker:v4.17.55
+# --platform=linux/arm64 mlikiowa/napcat-docker:v4.17.55
 
---platform=linux/amd64 xhongc/music_tag_web:latest
---platform=linux/arm64 xhongc/music_tag_web:latest
---platform=linux/amd64 xhongc/music_tag_web:2.7.1
---platform=linux/arm64 xhongc/music_tag_web:2.7.1
+# --platform=linux/amd64 xhongc/music_tag_web:latest
+# --platform=linux/arm64 xhongc/music_tag_web:latest
+# --platform=linux/amd64 xhongc/music_tag_web:2.7.1
+# --platform=linux/arm64 xhongc/music_tag_web:2.7.1
 
---platform=linux/amd64 taksss/php-epg:latest
---platform=linux/arm64 taksss/php-epg:latest
---platform=linux/amd64 taksss/php-epg:26.03.1
---platform=linux/arm64 taksss/php-epg:26.03.1
+# --platform=linux/amd64 taksss/php-epg:latest
+# --platform=linux/arm64 taksss/php-epg:latest
+# --platform=linux/amd64 taksss/php-epg:26.03.1
+# --platform=linux/arm64 taksss/php-epg:26.03.1
 
---platform=linux/amd64 develop767/migu_video:latest
---platform=linux/arm64 develop767/migu_video:latest
+# --platform=linux/amd64 develop767/migu_video:latest
+# --platform=linux/arm64 develop767/migu_video:latest
 
---platform=linux/amd64 whyour/qinglong:latest
---platform=linux/arm64 whyour/qinglong:latest
---platform=linux/amd64 whyour/qinglong:2.20.2-debian
---platform=linux/arm64 whyour/qinglong:2.20.2-debian
---platform=linux/amd64 whyour/qinglong:2.20.2
---platform=linux/arm64 whyour/qinglong:2.20.2
+# --platform=linux/amd64 whyour/qinglong:latest
+# --platform=linux/arm64 whyour/qinglong:latest
+# --platform=linux/amd64 whyour/qinglong:2.20.2-debian
+# --platform=linux/arm64 whyour/qinglong:2.20.2-debian
+# --platform=linux/amd64 whyour/qinglong:2.20.2
+# --platform=linux/arm64 whyour/qinglong:2.20.2
 
---platform=linux/amd64 linkease/kspeeder:latest
---platform=linux/arm64 linkease/kspeeder:latest
---platform=linux/amd64 linkease/kspeeder:0.7.5
---platform=linux/arm64 linkease/kspeeder:0.7.5
+# --platform=linux/amd64 linkease/kspeeder:latest
+# --platform=linux/arm64 linkease/kspeeder:latest
+# --platform=linux/amd64 linkease/kspeeder:0.7.5
+# --platform=linux/arm64 linkease/kspeeder:0.7.5
 
 --platform=linux/amd64 lampon/omnibox:latest
 --platform=linux/arm64 lampon/omnibox:latest
---platform=linux/amd64 lampon/omnibox:v2.1.2
---platform=linux/arm64 lampon/omnibox:v2.1.2
+--platform=linux/amd64 lampon/omnibox:v2.1.3
+--platform=linux/arm64 lampon/omnibox:v2.1.3
 
---platform=linux/amd64 smysong/mediamaster-v2:latest
---platform=linux/arm64 smysong/mediamaster-v2:latest
+# --platform=linux/amd64 smysong/mediamaster-v2:latest
+# --platform=linux/arm64 smysong/mediamaster-v2:latest
 
---platform=linux/amd64 ht944/rabbitpro:latest
---platform=linux/arm64 ht944/rabbitpro:latest
---platform=linux/amd64 ht944/rabbitpro:2026-01-31_19-44
---platform=linux/arm64 ht944/rabbitpro:2026-01-31_19-44
+# --platform=linux/amd64 ht944/rabbitpro:latest
+# --platform=linux/arm64 ht944/rabbitpro:latest
+# --platform=linux/amd64 ht944/rabbitpro:2026-01-31_19-44
+# --platform=linux/arm64 ht944/rabbitpro:2026-01-31_19-44
 
---platform=linux/amd64 looby/aliyundrive-subscribe:latest
---platform=linux/arm64 looby/aliyundrive-subscribe:latest
---platform=linux/amd64 looby/aliyundrive-subscribe:2.9.5
---platform=linux/arm64 looby/aliyundrive-subscribe:2.9.5
+# --platform=linux/amd64 looby/aliyundrive-subscribe:latest
+# --platform=linux/arm64 looby/aliyundrive-subscribe:latest
+# --platform=linux/amd64 looby/aliyundrive-subscribe:2.9.5
+# --platform=linux/arm64 looby/aliyundrive-subscribe:2.9.5
 
---platform=linux/amd64 jiangrui1994/cloudsaver:latest
---platform=linux/arm64 jiangrui1994/cloudsaver:latest
---platform=linux/amd64 jiangrui1994/cloudsaver:0.8.2
---platform=linux/arm64 jiangrui1994/cloudsaver:0.8.2
+# --platform=linux/amd64 jiangrui1994/cloudsaver:latest
+# --platform=linux/arm64 jiangrui1994/cloudsaver:latest
+# --platform=linux/amd64 jiangrui1994/cloudsaver:0.8.2
+# --platform=linux/arm64 jiangrui1994/cloudsaver:0.8.2
 
---platform=linux/amd64 a76yyyy/qiandao:latest
---platform=linux/arm64 a76yyyy/qiandao:latest
---platform=linux/amd64 a76yyyy/qiandao:20250803
---platform=linux/arm64 a76yyyy/qiandao:20250803
+# --platform=linux/amd64 a76yyyy/qiandao:latest
+# --platform=linux/arm64 a76yyyy/qiandao:latest
+# --platform=linux/amd64 a76yyyy/qiandao:20250803
+# --platform=linux/arm64 a76yyyy/qiandao:20250803
